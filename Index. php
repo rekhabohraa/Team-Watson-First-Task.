@@ -3,7 +3,7 @@ $name="Halimat";
 $email="aminuoluwatosin2000@gmail.com";
 $username="@Halimat";
 $language="php";
-$team="team_watson"
+$team="team_watson";
 echo "my name is $name";
 echo "my email is $email";
 echo "my hackbio username is $username";
