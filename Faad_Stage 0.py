@@ -1,0 +1,6 @@
+name = ("Yusuf Faad Mayowa")
+email = ("yusuffaad@gmail.com")
+language = ("Python")
+biostack = ("Data Analytics")
+stackname = ("@faad")
+print("Name: {}\nEmail: {}\nLanguage: {}\nBiostack: {}\nStackname: {}".format(name, email, language, biostack, stackname))
