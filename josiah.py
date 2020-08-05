@@ -1,0 +1,6 @@
+print('TEAM-WATSON HACKBIO 2020 STAGE-0 TASK', end='\n *')
+print('NAME:                   Peter Josiah Aminu', end='\n *')
+print('EMAIL:                  josiahpeter61@gmail.com', end='\n *')
+print('LANGUAGE:               Python', end='\n *')
+print('BIOSTACK:               Genomics', end='\n *')
+print('SLACK USERNAME:         @Josiah24')
